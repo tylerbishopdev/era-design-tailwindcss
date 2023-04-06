@@ -1,7 +1,7 @@
 export const colors = {
   colors: {
-    navy: '#000080',
-    aqua: '#00FFFF',
+    ezprimary: ['linear-gradient(to right, #3EBC61, #71CF25)'],
+    lime: '#ABFF66',
     black: '#000000',
     white: '#FFFFFF',
     grey: {
